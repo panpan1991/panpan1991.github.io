@@ -6,7 +6,7 @@ tags: [getting started]
 pin: true
 ---
 
-date: 2019-08-09 20:55:00 +0800
+
 ## Prerequisites
 
 Follow the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of basic environment (`Ruby`, `RubyGems` and `Bundler`). 
