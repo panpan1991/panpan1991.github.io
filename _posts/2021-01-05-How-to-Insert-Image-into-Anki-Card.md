@@ -33,7 +33,7 @@ tags: [Anki]
 
    ```html
    {% raw %}
-   <img src={{IMAGE}}/>
+   <img src={{IMAGE}} />
    {% endraw %}
    ```
 
