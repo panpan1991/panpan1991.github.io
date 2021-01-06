@@ -12,3 +12,11 @@ Three places
     
   /* Home page */
   --btn-active-bg: #696969;
+  
+  Module.scss
+  
+  @mixin sidebar-links($color:rgba(255,0,0,0.3)) {
+  color: $color;
+  transition: color 0.35s ease-in-out;
+  user-select: none;
+  margin: 0 .25rem;
