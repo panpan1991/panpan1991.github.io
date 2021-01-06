@@ -32,7 +32,7 @@ tags: [Anki]
 
 
    ```html
-   <img src=\{\{IMAGE\}\}/>
+   <img src={{IMAGE}}/>
    ```
 
    
