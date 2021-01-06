@@ -45,9 +45,11 @@ tags: [Anki]
 
 ## Import from CSV file
 
+If you need to import images into a deck by using CSV,
+
 - Do steps 1-2
 
-- Input the image file name in a column
+- Input the image file name in a column of CSV file
 
 <img src="/images/lu29099khvnzz_tmp_fd4597a690f8a811.png" alt="img" style="width:600px;height:400px;" /> 
 
