@@ -59,7 +59,7 @@ body {
   background: var(--body-bg);
   color: var(--text-color);
   -webkit-font-smoothing: antialiased;
-  font-family: 'Source Sans Pro', 'Microsoft Yahei', sans-serif;
+  font-family: 'Lato', 'Microsoft Yahei', sans-serif;
 }
 
 /*--- sidebar layout ---*/
@@ -90,7 +90,7 @@ $sidebar-display: "sidebar-display";
       font-size: 1.5rem;
       letter-spacing: .5px;
       &:hover {
-        color: #fff;
+        color: #ff0000;
         text-decoration: none;
       }
     }
@@ -99,7 +99,7 @@ $sidebar-display: "sidebar-display";
   .site-subtitle {
     font-size: 100%;
     text-align: center;
-    color: #828282;
+    color: #46000a;
     line-height: 1.2rem;
     word-spacing: 1px;
     margin: .5rem 1.5rem 2rem 1.5rem;
@@ -120,12 +120,12 @@ $sidebar-display: "sidebar-display";
     height: $tab-height;
     &:hover {
       .nav-link {
-        color: #f8f9facf;
+        color: #ff0000;
       }
     }
     &.active {
       .nav-link {
-        color: #fcfcfc;
+        color: #000000; //???
       }
     }
   }
@@ -1282,7 +1282,7 @@ table {
   }
 
   .post-content p {
-    font-size: 1.03rem;
+    font-size: 0.9rem;
   }
 
   footer>div.d-felx {
