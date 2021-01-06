@@ -1,8 +1,7 @@
 ---
 title: How to Insert Images into Anki Card
 author: Victor Liang
-categories: [Anki, Tutorial]
-tags: [Anki]
+categories: Anki Tutorial
 ---
 
 
