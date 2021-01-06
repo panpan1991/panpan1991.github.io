@@ -13,7 +13,7 @@ tags: [Anki]
 
 
 
-<img src="/home/victor/panpan1991.github.io/_posts/lu29099khvnzz_tmp_117f00af09f8357a.png" alt="img" style="zoom:50%;" /> 
+<img src="lu29099khvnzz_tmp_117f00af09f8357a.png" alt="img" style="zoom:50%;" /> 
 
 
 
