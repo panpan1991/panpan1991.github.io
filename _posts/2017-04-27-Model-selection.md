@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Model selection VS Goodness of Fit
-categories: Statistics Categorical_Analysis
+categories: [Statistics, Categorical_Analysis]
 ---
 
 They both use log likelihood. 

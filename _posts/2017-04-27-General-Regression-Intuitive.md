@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Intuitive Understanding of General Regressions
-categories: Statistics General_Regression
+categories: [Statistics, General_Regression]
 ---
 
 In
