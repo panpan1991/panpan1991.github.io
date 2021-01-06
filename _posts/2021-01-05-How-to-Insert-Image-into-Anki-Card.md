@@ -11,35 +11,35 @@ tags: [Anki]
 
 1. Copy the image File into the Folder collection.media
 
+   <img src="/images/lu29099khvnzz_tmp_117f00af09f8357a.png" alt="img" style="width:600px;height:400px;" /> 
 
-
-<img src="/images/lu29099khvnzz_tmp_117f00af09f8357a.png" alt="img" style="width:600px;height:400px;" /> 
-
-
+   
 
 2. Add “field” IMAGE in your card. You can give the field with other names, of course.
 
-<img src="/images/lu29099khvnzz_tmp_bc8b9faa07f6b04e.png" alt="img" style="width:600px;height:400px;" /> 
+   <img src="/images/lu29099khvnzz_tmp_bc8b9faa07f6b04e.png" alt="img" style="width:600px;height:400px;" /> 
 
-
+   
 
 3. Input image file name into the field IMAGE
 
-<img src="/images/lu29099khvnzz_tmp_bc8b9faa07f6b04e.png" alt="img" style="width:600px;height:400px;" /> 
+   <img src="/images/lu29099khvnzz_tmp_bc8b9faa07f6b04e.png" alt="img" style="width:600px;height:400px;" /> 
+
+   
 
 4. Add the field in the template by typing:
 
-   
-   
+
+
    ```html
    <img src={{IMAGE}}/>
    ```
-   
+
    
 
 <img src="/images/lu29099khvnzz_tmp_d1758f36e75a78f.png" alt="img" style="width:h:400px;height:400px;" /> 
 
-
+ 
 
 ## Import from CSV file
 
