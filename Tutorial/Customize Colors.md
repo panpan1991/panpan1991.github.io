@@ -78,7 +78,7 @@
 
   **In assets/css/_colors/light-typography.scss**
 
-  `  --post-list-text-color: black;`
+  `  --post-list-text-color: #000000;`
 
 
 
