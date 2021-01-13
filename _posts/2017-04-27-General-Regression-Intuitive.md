@@ -26,7 +26,7 @@ But some CDFs, such as the CDF of F distribution and $$\chi^2$$, cannot be used 
 
 
 
-### Separation theorem
+## Separation theorem
 
 - $$\beta_0$$ is the location parameter
 - $$\beta_1$$ is the scaling parameter

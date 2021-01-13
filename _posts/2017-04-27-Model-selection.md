@@ -8,9 +8,7 @@ They both use log likelihood.
 
 They both use comparison between models.
 
-
-
-### Model selection
+## Model selection
 
 More complex has the larger log likelihood.
 
@@ -36,7 +34,7 @@ This leads to the definition of **Akaike Information Criteria (AIC) **.
 
 
 
-### Akaike Information Criteria (AIC) 
+## Akaike Information Criteria (AIC) 
 
 
 $$
@@ -52,7 +50,7 @@ $$
 
 
 
-### Goodness of Fit
+## Goodness of Fit
 
 Goodness of fit is also based comparison of log likelihood. 
 
@@ -73,7 +71,7 @@ As we can see, smaller deviance means better fit.
 
 
 
-### Test for Goodness of Fit
+## Test for Goodness of Fit
 
 $$H_0:$$
 - The model M has enough goodness of fit
